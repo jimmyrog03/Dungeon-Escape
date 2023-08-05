@@ -1,0 +1,15 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 02EF3H 02EF4H CODE               
+ 02EF4H 03D04H 00E11H DATA               
+ 03D05H 03E04H 00100H STACK              
+ 03E05H 03EF8H 000F4H SOUND              
+ 03EF9H 03F88H 00090H ACTIVE_SOUNDS_SEGMENT 
+ 03F89H 108D1H 0C949H MUSIC_SOUND        
+ 108D2H 108D2H 00000H SOUND_EFFECTS      
+ 108D2H 1093DH 0006CH TIMER              
+
+Program entry point at 0000:0000
+Warning: No stack
+
