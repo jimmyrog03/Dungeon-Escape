@@ -6,7 +6,7 @@ The provided files should contain everything needed to run the game yourself, as
 
 Setup:
   - Clone repository to location of choice.
-  - In folder **_Dungeon-Escape-An-Assembly-Game_**, right click on folder **_GAME_** and choose option **copy as path**. 
+  - In folder **_Dungeon-Escape_**, right click on folder **_GAME_** and choose option **copy as path**. 
   - Go to **_DOSBox_** folder and edit "**_DOSBox 0.74-3 Options_**" in any notepad editor.
   - Scroll to the bottom of file **_dosbox-0.74-3.conf_** that opens.
   - Under the line that says "**# You can put your MOUNT lines here.**", type `mount c ` and then paste the path that you copied for the **_GAME_** folder on the same line.
