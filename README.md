@@ -37,6 +37,6 @@ priority=higher,normal
 mapperfile=mapper-0.74-3.map
 usescancodes=true
 ````
-- Save this file and now run the DOSBox application from the DOSBox folder.
+- Save this file and now run the **DOSBox** application from the **_DOSBox_** folder.
 - The game should run automatically from here and you can begin playing!
 
